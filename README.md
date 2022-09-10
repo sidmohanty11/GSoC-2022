@@ -52,8 +52,30 @@ The following are the deliverables of this project:
 **All of the above deliverables were completed within the GSoC period. Yay! 🎉**
 
 ## 📺 Demo
+### Sneak Peak
+![randomgifec](https://user-images.githubusercontent.com/73601258/189498365-90bcc80a-4fb1-461b-a89e-99f1f8d31d95.gif)
 
+### Providing real-time chat functionality using RocketChat node.js SDK
 
+https://user-images.githubusercontent.com/73601258/189498385-1346c5af-ec75-42a9-b864-f6f3b1e49d88.mp4
+
+https://user-images.githubusercontent.com/73601258/189498400-942f337a-0ee8-48e5-b539-70dc49d1e3e7.mp4
+
+### Authentication using RocketChat’s Google SSO
+https://user-images.githubusercontent.com/73601258/180390437-b28ceacb-7f3f-4b80-84c1-4e1709b6cd35.mp4
+
+### Adding EmojiOne Emoji Picker to the component to ensure cross-platform functioning of emojis.
+![image](https://user-images.githubusercontent.com/73601258/189498628-119c0417-a8cd-4775-acdf-41fdd3b7bc62.png)
+
+### Using Rocket.Chat’s REST API
+Took an object-oriented programming approach to build this. Created an API wrapper that is super simple to set up.
+[Here](https://github.com/RocketChat/EmbeddedChat/blob/main/src/lib/api.js) is the code.
+
+### Providing the functionality to pin/star/react to any message and mention users.
+
+https://user-images.githubusercontent.com/73601258/189498498-602ddade-2883-43ac-91b7-9f63dc41cf84.mp4
+
+https://user-images.githubusercontent.com/73601258/189498502-1310fb1c-293e-4bb4-a208-7b523dfdd23f.mp4
 
 ## 🚀 Contributions
 
