@@ -17,7 +17,7 @@
         <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;
         <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
         <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
         <a href="#-links">Links</a>
     </code>
 </p>
