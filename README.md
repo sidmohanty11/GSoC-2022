@@ -142,7 +142,7 @@ Learned something new today? Reciprocate the love. ⭐ this repo for good karma.
 Want to discuss about GSoC / Rocket.Chat / Open-source ? Let's connect!
 <div align="center">
 
-| **Student** | Rohan Lekhwani |
+| **Student** | Sidharth Mohanty |
 |:--------------------|:-------------------|
 | **Organization** | [Rocket.Chat](https://rocket.chat/) |
 | **Project** | [EmbeddedChat](https://docs.rocket.chat/contributors/annual-contribution-programs/google-summer-of-code/google-summer-of-code-2022#rocket.chat-reactjs-fullstack-component) |
